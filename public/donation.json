@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "picture1": "https://i.ibb.co/s9Dx490/Health.png",
+        "picture2": "https://i.ibb.co/y0GXXhh/Rectangle-4284.png",
+        "title": "Health",
+        "category": "Clean water for clildren",
+
+        "category_bg": "#0052FF",
+        "text_cl": "#0052FF",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(0, 82, 255, 0.20)",
+        "card_bg":"rgba(0, 82, 255, 0.09)",
+        "description": "Your donation is a lifeline for individuals and communities in need of critical medical supplies and support. By contributing, you play a crucial role in saving lives and improving the overall health of people around the world. Your generous support not only aids in immediate medical relief but also fuels ongoing medical research, the development of healthcare infrastructure, and the enhancement of healthcare programs. Together, we can combat diseases, promote wellness, and ensure a healthier, more resilient world for all.Your donation is an investment in a brighter and healthier future for individuals, families, and communities. Join us in the fight against global health crises, one donation at a time, and become a catalyst for transformative change. Your support matters; it can help break the chains of illness and suffering.",
+        "price": 399
+    },
+
+    {
+        "id": 3,
+        "picture1": "https://i.ibb.co/jk5Dqx9/Clothing.png",
+        "picture2": "https://i.ibb.co/0GnfX0T/Rectangle-4287.png",
+        "title": "Clothing",
+        "category": "Used Clothing Drive",
+        "category_bg": "#79C23F",
+        "text_cl": "#79C23F",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(121, 194, 63, 0.20)",
+        "card_bg":"rgba(121, 194, 63, 0.05)",
+        "description": "Donating clothing is more than a simple act of kindness; it's a way to provide warmth, dignity, and comfort to individuals who are facing challenging circumstances. Your contribution can make a difference in the lives of those experiencing homelessness, helping them brave the elements and find shelter. By promoting clothing recycling and reducing textile waste, you can also contribute to a more sustainable and eco-friendly world. Your generosity can offer a fresh start to people in need, helping them rebuild their lives with a sense of dignity and self-worth. Be a part of our mission to ensure that everyone, regardless of their circumstances, has access to clean, appropriate clothing. Your donation can empower individuals to dress for success, improve their self-esteem, and participate more fully in society. Your support matters, and it can be the spark that ignites positive change in the lives of individuals who are struggling.",
+        "price": 270
+    },
+    {
+        "id": 2,
+        "picture1": "https://i.ibb.co/68SkZ57/Rectangle-4288.png" ,
+        "picture2": "https://i.ibb.co/fGMz9S9/Rectangle-4287-1.png",
+        "title": "Education",
+        "category": "Good education",
+        "category_bg": "#FF444A",
+        "text_cl": "#FF444A",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(255, 68, 74, 0.20)",
+        "card_bg":"rgba(255, 68, 74, 0.09)",
+        "description": "Your support for education initiatives is an investment in the future. By donating, you empower children and adults to access quality education, gain essential skills, and create a brighter, more equitable world. Your generous contribution plays a pivotal role in providing books, supplies, and educational resources to underprivileged students, giving them the tools they need to pursue their dreams. Education is the key to breaking the cycle of poverty, and your donation has the power to unlock countless opportunities for individuals and communities. Be a champion for literacy and lifelong learning; your support can transform lives. Together, we can bridge educational disparities and ensure equal access to knowledge, regardless of one's background or circumstances. Your generosity can help build schools, provide scholarships to deserving students, and improve the quality of education.",
+        "price": 299
+    },
+    {
+        "id": 4,
+        "picture1": "https://i.ibb.co/2Y01TfH/Food.png",
+        "picture2": "https://i.ibb.co/93Zr6bS/Rectangle-4287-2.png",
+        "title": "Food",
+        "category": "Better Food for Everyone",
+        "category_bg": "#F87147",
+        "text_cl": "#F87147",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(248, 113, 71, 0.20)",
+        "card_bg":"rgba(248, 113, 71, 0.09)",
+        "description": "Your contribution to addressing food insecurity is a vital step in alleviating hunger and providing sustenance to those who need it most. Your donation helps distribute nutritious food to families facing hunger, malnutrition, and food scarcity. By supporting food banks, community kitchens, and emergency relief efforts, you can make a direct and immediate impact on individuals and communities in crisis. Together, we can work towards ending hunger and food waste, creating a world where no one goes to bed hungry. Your generosity can also support agriculture and sustainable farming practices, increasing food production and promoting food security. Your donation can be a lifeline for individuals and families struggling to put food on the table. Join us in the fight against food poverty and be a part of the solution by contributing to hunger relief efforts. Your support not only provides nourishment.",
+        "price": 259
+    },
+    {
+        "id": 5,
+        "picture1": "https://i.ibb.co/s9Dx490/Health.png",
+        "picture2": "https://i.ibb.co/y0GXXhh/Rectangle-4284.png",
+        "title": "Health",
+        "category": "Clean water for clildren",
+
+        "category_bg": "#0052FF",
+        "text_cl": "#0052FF",
+       
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(0, 82, 255, 0.20)",
+        "card_bg":"rgba(0, 82, 255, 0.05)",
+        "description": "Your donation is a lifeline for individuals and communities in need of critical medical supplies and support. By contributing, you play a crucial role in saving lives and improving the overall health of people around the world. Your generous support not only aids in immediate medical relief but also fuels ongoing medical research, the development of healthcare infrastructure, and the enhancement of healthcare programs. Together, we can combat diseases, promote wellness, and ensure a healthier, more resilient world for all.Your donation is an investment in a brighter and healthier future for individuals, families, and communities. Join us in the fight against global health crises, one donation at a time, and become a catalyst for transformative change. Your support matters; it can help break the chains of illness and suffering.",
+        "price": 399
+    },
+    {
+        "id": 6,
+        "picture1": "https://i.ibb.co/68SkZ57/Rectangle-4288.png" ,
+        "picture2": "https://i.ibb.co/fGMz9S9/Rectangle-4287-1.png",
+        "title": "Education",
+        "category": "Good education",
+        "category_bg": "#FF444A",
+        "text_cl": "#FF444A",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(255, 68, 74, 0.20)",
+        "card_bg":"rgba(255, 68, 74, 0.05)",
+        "description": "Your support for education initiatives is an investment in the future. By donating, you empower children and adults to access quality education, gain essential skills, and create a brighter, more equitable world. Your generous contribution plays a pivotal role in providing books, supplies, and educational resources to underprivileged students, giving them the tools they need to pursue their dreams. Education is the key to breaking the cycle of poverty, and your donation has the power to unlock countless opportunities for individuals and communities. Be a champion for literacy and lifelong learning; your support can transform lives. Together, we can bridge educational disparities and ensure equal access to knowledge, regardless of one's background or circumstances. Your generosity can help build schools, provide scholarships to deserving students, and improve the quality of education.",
+        "price": 299
+    },
+    {
+        "id": 9,
+        "picture1": "https://i.ibb.co/s9Dx490/Health.png",
+        "picture2": "https://i.ibb.co/y0GXXhh/Rectangle-4284.png",
+        "title": "Health",
+        "category": "Clean water for clildren",
+
+        "category_bg": "#0052FF",
+        "text_cl": "#0052FF",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(0, 82, 255, 0.20)",
+        "card_bg":"rgba(0, 82, 255, 0.05)",
+        "description": "Your donation is a lifeline for individuals and communities in need of critical medical supplies and support. By contributing, you play a crucial role in saving lives and improving the overall health of people around the world. Your generous support not only aids in immediate medical relief but also fuels ongoing medical research, the development of healthcare infrastructure, and the enhancement of healthcare programs. Together, we can combat diseases, promote wellness, and ensure a healthier, more resilient world for all.Your donation is an investment in a brighter and healthier future for individuals, families, and communities. Join us in the fight against global health crises, one donation at a time, and become a catalyst for transformative change. Your support matters; it can help break the chains of illness and suffering.",
+        "price": 399
+    },
+    {
+        "id": 10,
+        "picture1": "https://i.ibb.co/68SkZ57/Rectangle-4288.png" ,
+        "picture2": "https://i.ibb.co/fGMz9S9/Rectangle-4287-1.png",
+        "title": "Education",
+        "category": "Good education",
+        "category_bg": "#FF444A",
+        "text_cl": "#FF444A",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(255, 68, 74, 0.20)",
+        "card_bg":"rgba(255, 68, 74, 0.05)",
+        "description": "Your support for education initiatives is an investment in the future. By donating, you empower children and adults to access quality education, gain essential skills, and create a brighter, more equitable world. Your generous contribution plays a pivotal role in providing books, supplies, and educational resources to underprivileged students, giving them the tools they need to pursue their dreams. Education is the key to breaking the cycle of poverty, and your donation has the power to unlock countless opportunities for individuals and communities. Be a champion for literacy and lifelong learning; your support can transform lives. Together, we can bridge educational disparities and ensure equal access to knowledge, regardless of one's background or circumstances. Your generosity can help build schools, provide scholarships to deserving students, and improve the quality of education.",
+        "price": 299
+    },
+    {
+        "id": 7,
+        "picture1": "https://i.ibb.co/jk5Dqx9/Clothing.png",
+        "picture2": "https://i.ibb.co/0GnfX0T/Rectangle-4287.png",
+        "title": "Clothing",
+        "category": "Used Clothing Drive",
+        "category_bg": "#79C23F",
+        "text_cl": "#79C23F",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(121, 194, 63, 0.20)",
+        "card_bg":"rgba(121, 194, 63, 0.09)",
+        "description": "Donating clothing is more than a simple act of kindness; it's a way to provide warmth, dignity, and comfort to individuals who are facing challenging circumstances. Your contribution can make a difference in the lives of those experiencing homelessness, helping them brave the elements and find shelter. By promoting clothing recycling and reducing textile waste, you can also contribute to a more sustainable and eco-friendly world. Your generosity can offer a fresh start to people in need, helping them rebuild their lives with a sense of dignity and self-worth. Be a part of our mission to ensure that everyone, regardless of their circumstances, has access to clean, appropriate clothing. Your donation can empower individuals to dress for success, improve their self-esteem, and participate more fully in society. Your support matters, and it can be the spark that ignites positive change in the lives of individuals who are struggling.",
+        "price": 270
+    },
+    {
+        "id": 8,
+        "picture1": "https://i.ibb.co/2Y01TfH/Food.png",
+        "picture2": "https://i.ibb.co/93Zr6bS/Rectangle-4287-2.png",
+        "title": "Food",
+        "category": "Better Food for Everyone",
+        "category_bg": "#F87147",
+        "text_cl": "#F87147",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(248, 113, 71, 0.20)",
+        "card_bg":"rgba(248, 113, 71, 0.09)",
+        "description": "Your contribution to addressing food insecurity is a vital step in alleviating hunger and providing sustenance to those who need it most. Your donation helps distribute nutritious food to families facing hunger, malnutrition, and food scarcity. By supporting food banks, community kitchens, and emergency relief efforts, you can make a direct and immediate impact on individuals and communities in crisis. Together, we can work towards ending hunger and food waste, creating a world where no one goes to bed hungry. Your generosity can also support agriculture and sustainable farming practices, increasing food production and promoting food security. Your donation can be a lifeline for individuals and families struggling to put food on the table. Join us in the fight against food poverty and be a part of the solution by contributing to hunger relief efforts. Your support not only provides nourishment.",
+        "price": 259
+    },
+ 
+    {
+        "id": 11,
+        "picture1": "https://i.ibb.co/jk5Dqx9/Clothing.png",
+        "picture2": "https://i.ibb.co/0GnfX0T/Rectangle-4287.png",
+        "title": "Clothing",
+        "category": "Used Clothing Drive",
+        "category_bg": "#79C23F",
+        "text_cl": "#79C23F",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(121, 194, 63, 0.20)",
+        "card_bg":"rgba(121, 194, 63, 0.09)",
+        "description": "Donating clothing is more than a simple act of kindness; it's a way to provide warmth, dignity, and comfort to individuals who are facing challenging circumstances. Your contribution can make a difference in the lives of those experiencing homelessness, helping them brave the elements and find shelter. By promoting clothing recycling and reducing textile waste, you can also contribute to a more sustainable and eco-friendly world. Your generosity can offer a fresh start to people in need, helping them rebuild their lives with a sense of dignity and self-worth. Be a part of our mission to ensure that everyone, regardless of their circumstances, has access to clean, appropriate clothing. Your donation can empower individuals to dress for success, improve their self-esteem, and participate more fully in society. Your support matters, and it can be the spark that ignites positive change in the lives of individuals who are struggling.",
+        "price": 270
+    },
+
+    {
+        "id": 12,
+        "picture1": "https://i.ibb.co/2Y01TfH/Food.png",
+        "picture2": "https://i.ibb.co/93Zr6bS/Rectangle-4287-2.png",
+        "title": "Food",
+        "category": "Better Food for Everyone",
+        "category_bg": "#F87147",
+        "text_cl": "#F87147",
+        "btn_bg": "#F0F0F0",
+        "title_bg":"rgba(248, 113, 71, 0.20)",
+        "card_bg":"rgba(248, 113, 71, 0.09)",
+        "description": "Your contribution to addressing food insecurity is a vital step in alleviating hunger and providing sustenance to those who need it most. Your donation helps distribute nutritious food to families facing hunger, malnutrition, and food scarcity. By supporting food banks, community kitchens, and emergency relief efforts, you can make a direct and immediate impact on individuals and communities in crisis. Together, we can work towards ending hunger and food waste, creating a world where no one goes to bed hungry. Your generosity can also support agriculture and sustainable farming practices, increasing food production and promoting food security. Your donation can be a lifeline for individuals and families struggling to put food on the table. Join us in the fight against food poverty and be a part of the solution by contributing to hunger relief efforts. Your support not only provides nourishment.",
+        "price": 259
+    }   
+    
+]
