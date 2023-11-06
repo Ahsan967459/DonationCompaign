@@ -23,22 +23,25 @@ const router = createBrowserRouter([
         element:<DonationBlogs/>,
         loader:async ()=>fetch("donation.json")
       },
-      {
-        path:"/donation",
-        loader:()=>fetch("donation.json"),
-        element:<Donation/>
-      },
+
       {
         path:"/statistics",
+        element:<Statistics/>,
         loader:()=>fetch("donation.json"),
-        element:<Statistics/>
       },
 
       {
         path:"/donationDetails/:id",
-        loader:()=>fetch("donation.json"),
-        element:<DonationDetails/>
-      }
+        element:<DonationDetails/>,
+        loader:()=>fetch("donation.json")
+       
+      },
+      {
+        path:"/donation",
+        element:<Donation/>,
+        loader:()=>fetch("donation.json")
+      },
+
     ]
       
     

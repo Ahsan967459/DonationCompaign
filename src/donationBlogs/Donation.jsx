@@ -7,13 +7,25 @@ const Donation = () => {
     const[selectedBlogs,setSelectedBlogs]=useState([]);
     const [dataLength,setdataLength]=useState(4);
 
+    
+    //Load data in fetch............
     const BlogsData=useLoaderData();
+
+     
     useEffect(() => {
         const getLocalStorageData = JSON.parse(localStorage.getItem("selectdata"));
+
+
         if (getLocalStorageData) {
-            const selectedData = BlogsData.filter(data => getLocalStorageData.includes(data.id));
-            setSelectedBlogs(selectedData);
+            if (Array.isArray(BlogsData)) {
+                const selectedData = BlogsData.filter(data => getLocalStorageData.includes(data.id));
+                setSelectedBlogs(selectedData);
+            } else {
+                // Handle the case where BlogsData is not an array
+                // You can log an error or set a default value as needed.
+            }
         }
+        console.log(typeof(BlogsData))
     }, []);
     
     
