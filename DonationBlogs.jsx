@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react';
 import Banner from '../components/banner/Banner';
 import DonationCard from './DonationCard';
-import { useLoaderData } from 'react-router-dom';
+import data from "./../../public/donation.json";
 
 const DonationBlogs = () => {
     //recieve DonationCard Data.........
-    const DonationData=useLoaderData();
+    const DonationData=data;
     const [showData,setShowData]=useState([]);
 
     useEffect(() => {
